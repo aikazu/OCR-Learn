@@ -116,7 +116,5 @@ ocr_tool/
 ├── image_utils.py    # Image preprocessing and highlighting functions
 ├── requirements.txt  # Python dependencies
 ├── ocr_config.ini    # Optional configuration file (Example)
-├── README.md         # This file
-├── PLANNING.md       # Project planning details
-└── TASK.md           # Task tracking
+└── README.md         # This file
 ``` 

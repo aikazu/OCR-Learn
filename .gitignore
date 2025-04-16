@@ -1,0 +1,11 @@
+.cursor/
+PLANNING.md
+TASK.md
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db

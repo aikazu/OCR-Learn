@@ -20,7 +20,7 @@ A command-line tool to extract text from images using Tesseract OCR, with image 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/aikazu/OCR-Learn.git
     cd ocr_tool
     ```
 
